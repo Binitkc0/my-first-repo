@@ -1,2 +1,3 @@
-THIS IS A BAD CHANGE
+Hello from GitHub!
+This is my second version.
 
